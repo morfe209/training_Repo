@@ -1,0 +1,22 @@
+.form {
+  width: 800px;
+  margin: 50px auto 20px;
+  display: flex;
+}
+
+.todoInput {
+  width: 80%;
+  height: 30px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #34495e;
+  outline: none;
+  font: 300 28px 'Ubuntu', sans-serif;
+  padding: 20px;
+  color: #34495e;
+}
+.form button{
+  color: #34495e;
+  width: 20%;
+  font: 400 20px 'Ubuntu', sans-serif;
+}
